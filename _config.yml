@@ -1,0 +1,23 @@
+name: Mayrav Herman
+favicon: null
+layout_spectrum: 0.7739592075813562
+typography_spectrum: 0.7920440509915352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.23611491080373526
+  lightness: 0.9744056309573352
+  saturation: 0.8917941330000758
+  rhythmicContrast: 0.26647944236174226
+purpose: []
