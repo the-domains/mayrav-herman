@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mayrav Herman]]></title>
         <description><![CDATA[Mayrav Herman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mayrav-herman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 21:17:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 21:21:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mayrav-herman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<h1>About</h1>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/mayrav-herman/about/index.html</link>
             <guid isPermaLink="false">06425b50-c806-4b03-a2bd-3baf9d59ddff</guid>
-            <pubDate>Thu, 19 Nov 2015 21:17:40 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 21:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
